@@ -1,0 +1,59 @@
+.topbar{
+    text-decoration:none;
+    color:white;
+    font-size: 15px;
+    margin-left: 20px;
+
+}
+.top{
+    background-color:grey;
+    text-align: end;
+}
+.image{
+    width: 100px;
+    height:90px;
+    
+}
+.page{
+    list-style: none;
+    display:flex;
+    column-gap: 30px;
+    font-size: 18px;
+}
+.image-one{
+    height: 550px;
+    width: 550px;
+    object-fit: cover;
+
+}
+.product{
+    font-weight: bold;
+    text-align: center;
+
+}
+.card-img{
+    height: 300px;
+    object-fit: cover;
+}
+.img1{
+    width:500px;
+    border-radius: 20px;
+}
+.panda{
+    width: 250px;
+    height: 170px;
+    
+}
+.submit{
+    width: 100px;
+    font-weight: bold;
+}
+.crd{
+    background-color: lightgreen !important;
+}
+.about{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+}
